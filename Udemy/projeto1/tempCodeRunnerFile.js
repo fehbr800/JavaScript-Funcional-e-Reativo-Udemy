@@ -1,0 +1,1 @@
+.then(linhas => fn.removerSeVazio(linhas))
